@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Edwin Kariuki</string>
+    <string name="role">Junior Android Developer</string>
+    <string name="email">edwin.kariuki@strathmore.edu</string>
+    <string name="contact">+254 795 497 904 </string>
+    <string name="share"> AndroidDev</string>
+
+</resources>
